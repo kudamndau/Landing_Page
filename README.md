@@ -25,7 +25,7 @@ In this project, I take on the challenge of building a visually engaging and inf
 
 **Resources**
 
-- **Design References:** Design images provided a visual roadmap for the landing page layout, colour scheme, and font choices.[visual roadmap for the landing page layout,](./rsrc/01.png) [colour scheme, and font choices.](./rsrc/02.png)
+- **Design References:** Design images provided a [visual roadmap for the landing page layout,](./rsrc/01.png) [colour scheme, and font choices.](./rsrc/02.png)
 - **Workflow Guide:** [Here's a detailed breakdown of the development process followed for this project.](./rsrc/WORKFLOW.md)
 
 **Future Plans**
