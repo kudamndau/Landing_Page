@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 /* Global Styles*/
 html, body {
@@ -11,7 +12,7 @@ html, body {
 }
 
 body {
-  font-family: Roboto, Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   font-size: 14px;
 }
 
@@ -202,8 +203,14 @@ h2 {
 }
 
 /* CTA Section */
+#cta {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
 .cta-container {
   justify-content: space-between;
+  max-width: 900px;
   padding-left: 100px;
   padding-right: 100px;
 }
