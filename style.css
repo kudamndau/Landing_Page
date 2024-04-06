@@ -108,7 +108,7 @@ h1 {
 
 .image {
   overflow: hidden;
-  height: 283px;
+  max-height: 324px;
   width: 600px;
 }
 
@@ -135,7 +135,7 @@ h2 {
   display: flex;
   flex: 1;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   gap: 64px;
   max-height: 300px;
   padding-bottom: 45px;
