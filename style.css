@@ -208,12 +208,6 @@ h2 {
   padding-right: 100px;
 }
 
-/* display block is affecting flexbox the 
-.text div and .cta-button
-div are displaying block despite having set 
-the .cta-container to display flex. 
-Look into it*/
-
 .cta-button button {
   border: 2px solid #e5e7eb;
 }
